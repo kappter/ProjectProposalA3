@@ -1,5 +1,6 @@
 # Project Proposal 1: Name?
 Description of the project...
+Group Members:
 
 ## GUI Mockup #1
 
