@@ -2,11 +2,12 @@
 Description of the project...
 Group Members:
 
-## GUI Mockup #1
+## GUI Mockup #1 (Start screen)
+![Start Screen]()
 
-## GUI Mockup #2
+## GUI Mockup #2 (Gameplay)
 
-## GUI Mockup #3
+## GUI Mockup #3 (End of game)
 
 ## Class Diagram #1
 
